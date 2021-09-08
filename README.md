@@ -1,6 +1,6 @@
 ## <p align="center"> Thiết kế và xây dựng website các trò chơi trí tuệ </p>
 
-1.	Thông tin người thực hiện:
+### 1.	Thông tin người thực hiện:
   
 <div align="center">
   
@@ -11,8 +11,9 @@
 | Giáo viên hướng dẫn: TS.NGUYỄN QUANG VŨ  | Email: nqvu@vku.udn.vn |
 </div>
   
-2.	Tên đồ án: Thiết kế và xây dựng website các trò chơi trí tuệ
-3.	Mô tả:
+### 2.	Tên đồ án: Thiết kế và xây dựng website các trò chơi trí tuệ
+
+### 3.	Mô tả:
 - Lí do chọn đề tài:
   - Ngày nay, xã hội ngày càng phát triển, điều kiện vật chất của mọi người dần được cải thiện, tất cả mọi người đang được tiếp cận internet rất nhiều, đặc biệt là giới trẻ, điều này tạo điều kiện rất lớn cho việc học tập, làm việc của mọi người, nhưng bên cạnh đó thì cám dỗ của internet là rất lớn, đặc biệt đáng nói đến đó chính là các trò chơi trực tuyến, mọi người rất dễ bị gây nghiện bơi các trò chơi vô bổ này, sẽ có những người suốt ngày chỉ sử internet chỉ để chơi các trò chơi, không đúng với mục tiêu sử dụng internet ban đầu đặt ra. Vậy chúng ta đặt ra một câu hỏi là: “Có phải tất cả các trò chơi trực tuyến đều vô bổ hay không?” câu trả lời là không, sẽ có những trò chơi không hề gây nghiện, mà còn kích thích phát triển tư duy, vận động trí não của người chơi, đây chính là lý do chính mà chúng em chọn đề tài này, bọn em muốn tạo ra một website mà tất cả các trò chơi trên website đều là các trò chơi trí tuệ. Ngoài việc giải trí sau nhưng giờ làm việc, giờ học căng thẳng, game trí tuệ có khả năng tăng cường sự tập trung của não bộ. Khiến bộ não hoạt động nhiều hơn và giống như một bài tập thể dục, nó giúp bộ não chúng ta được cải thiện hơn hay tóm gọn là giúp người chơi thông minh và nhớ lâu hơn. Hiện tại game trí tuệ đang có sức phát triển rất mạnh mẽ cũng như nhu cầu của người chơi rất lớn.
 
@@ -44,7 +45,7 @@
   -	Phát triển thêm nhiều game hấp dẫn và hay hơn.
   -	Cải thiện tốc độ, server của website để nhiều người sử dụng.
 
-4.	Nội dung thực hiện:
+### 4.	Nội dung thực hiện:
   -	Xây dựng đề cương
   -	Tìm hiểu các mô hình game
   -	Tìm hiểu về ngôn ngữ Javascript
@@ -55,14 +56,14 @@
   -	Kiểm tra và sửa chữa các lỗi
   -	Viết báo cáo đồ án (word, slide,…) 
 
-5.	Kế hoạch thực hiện:
+### 5.	Kế hoạch thực hiện:
 
 <div align="center">
   
 | Thời gian<img width=1000> |Nội dung thực hiện<img width=800/>|
 | :-----: | :-: |
 | Tuần thứ nhất <br> _(Từ ngày 09/09 đến ngày 15/09)_ | Xây dựng, hoàn thiện đề cương. <br> Tìm hiểu các ứng dụng, sản phẩm hiện có, tìm hiểu mô hình game |
-| Tuần thứ hai _ <br> (Từ ngày 16/09 đến ngày 22/09 )_ | Tìm hiểu về ngôn ngữ Javascript, các thư viện để sử dụng trong <br> lập trình game. |
+| Tuần thứ hai <br> _(Từ ngày 16/09 đến ngày 22/09 )_ | Tìm hiểu về ngôn ngữ Javascript, các thư viện để sử dụng trong <br> lập trình game. |
 | Tuần thứ ba <br> _(Từ ngày23/09 đến ngày 29/09 )_ | Thiết kế đồ họa của game, giao diện chức năng cơ bản của website. |
 | Tuần thứ tư <br> _(Từ ngày 30/09 đến ngày 6/10 )_ | Tiến hành lập trình các game trên website.|
 | Tuần thứ năm <br> _(Từ ngày 7/10 đến ngày 13/10)_ | Tiếp tục hoàn thiện website, mục tiêu đề ra. |
