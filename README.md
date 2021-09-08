@@ -23,5 +23,28 @@
   - Trang bị thêm các thuật toán đã học để hướng dẫn người chơi game dễ dàng hơn.
   - Các trò chơi dự kiến được tạo ra là: tháp Hà Nội, qua sông, sokoban, line98
 
-  
+- Công cụ và ngôn ngữ sử dụng:
+  -	Html
+  -	Css
+  -	Javascript
+  -	Bootstrap
+  -	NodeJs
+
+- Thư viện sử dụng
+  -	PixiJs
+  -	Webpack
+  -	Pixi Spine
+  -	TweenJS
+
+- Kết quả dự kiến
+  -	Xây dựng hoàn chỉnh website chạy được ổn định trên nhiều thiết bị.
+  -	Hiển thị được chính xác thông tin và đáp ứng được các mục tiêu đề ra của đồ án.
+
+- Dự kiến hướng phát triển:
+  -	Phát triển thêm nhiều game hấp dẫn và hay hơn.
+  -	Cải thiện tốc độ, server của website để nhiều người sử dụng.
+
+
+
+
 
