@@ -1,4 +1,7 @@
 ## <p align="center"> Thiết kế và xây dựng website các trò chơi trí tuệ </p>
+<p align="center"> <img src="/images/bg.png" alt="bg" /> </p>
+
+<hr>
 
 ### Mục lục:
 - [Thông tin người thực hiện](#1thông-tin-người-thực-hiện)
