@@ -59,9 +59,9 @@
 
 <div align="center">
   
-| Thành viên<img width=1000> |Thông tin<img width=800/>|
+| Thời gian<img width=1000> |Nội dung thực hiện<img width=800/>|
 | :-----: | :-: |
-| Họ và tên sinh viên 1: PHAN ĐỨC HẢI <br> Ngành: Công nghệ thông tin <br> Điện thoại: 0961463407 | MSSV: 18IT319 <br> Lớp: 18IT5 <br> Email: pdhai.18it5@vku.udn.vn |
-| Họ và tên sinh viên 2: NGUYỄN VĂN NAM <br> Ngành: Công nghệ thông tin <br> Điện thoại: 0337994575 | MSSV: 18IT340 <br> Lớp: 18IT5 <br> Email: nvnam.18it5@vku.udn.vn |
-| Giáo viên hướng dẫn: TS.NGUYỄN QUANG VŨ  | Email: nqvu@vku.udn.vn |
+| Tuần thứ nhất <br> _(Từ ngày 09/09 đến ngày 15/09)_ | Xây dựng, hoàn thiện đề cương. <br> Tìm hiểu các ứng dụng, sản phẩm hiện có, tìm hiểu mô hình game |
+| Tuần thứ hai _(Từ ngày 16/09 đến ngày 22/09 )_ | Tìm hiểu về ngôn ngữ Javascript, các thư viện để sử dụng trong <br> lập trình game. |
+| Tuần thứ ba <br> _(Từ ngày23/09 đến ngày 29/09 )_ | Thiết kế đồ họa của game, giao diện chức năng cơ bản của website. |
 </div>
