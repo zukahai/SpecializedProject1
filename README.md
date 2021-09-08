@@ -62,6 +62,13 @@
 | Thời gian<img width=1000> |Nội dung thực hiện<img width=800/>|
 | :-----: | :-: |
 | Tuần thứ nhất <br> _(Từ ngày 09/09 đến ngày 15/09)_ | Xây dựng, hoàn thiện đề cương. <br> Tìm hiểu các ứng dụng, sản phẩm hiện có, tìm hiểu mô hình game |
-| Tuần thứ hai _(Từ ngày 16/09 đến ngày 22/09 )_ | Tìm hiểu về ngôn ngữ Javascript, các thư viện để sử dụng trong <br> lập trình game. |
+| Tuần thứ hai _ <br> (Từ ngày 16/09 đến ngày 22/09 )_ | Tìm hiểu về ngôn ngữ Javascript, các thư viện để sử dụng trong <br> lập trình game. |
 | Tuần thứ ba <br> _(Từ ngày23/09 đến ngày 29/09 )_ | Thiết kế đồ họa của game, giao diện chức năng cơ bản của website. |
+| Tuần thứ tư <br> _(Từ ngày 30/09 đến ngày 6/10 )_ | Tiến hành lập trình các game trên website.|
+| Tuần thứ năm <br> _(Từ ngày 7/10 đến ngày 13/10)_ | Tiếp tục hoàn thiện website, mục tiêu đề ra. |
+| Tuần thứ sáu <br> _(Từ ngày 14/10 đến ngày 20/110 )_ | Kiểm tra, chạy thử các game trên website. <br> Sửa các lỗi xảy ra và chỉnh sửa thiết kế cho phù hợp nhất. |
+| Các tuần còn lại | Tiếp tục xây dựng, chỉnh sửa website. <br> Thực hiện báo cáo word, slide bằng tiếng anh, … |
+  
 </div>
+
+## <p align="center"> Đà Nẵng Ngày 08 tháng 09 năm 2021 </p>
