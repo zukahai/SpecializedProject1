@@ -1,12 +1,13 @@
 ## <p align="center"> Thiết kế và xây dựng website các trò chơi trí tuệ </p>
 
 ### Mục lục:
-- [Thông tin người thực hiện]()
-- [Tên đồ án]()
-- [Mô tả đồ án]()
-- [Nội dung thực hiện]()
-- [Kế hoạch thực hiện]()
+- [Thông tin người thực hiện](#1thông-tin-người-thực-hiện)
+- [Tên đồ án](#2tên-đồ-án-thiết-kế-và-xây-dựng-website-các-trò-chơi-trí-tuệ)
+- [Mô tả đồ án](#3mô-tả)
+- [Nội dung thực hiện](#4nội-dung-thực-hiện)
+- [Kế hoạch thực hiện](#5kế-hoạch-thực-hiện)
 
+<hr>
 
 ### 1.	Thông tin người thực hiện:
   
