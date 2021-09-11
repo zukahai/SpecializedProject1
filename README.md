@@ -1,5 +1,5 @@
 ## <p align="center"> Thiết kế và xây dựng website các trò chơi trí tuệ </p>
-<p align="center"> <img src="/images/bg.png" alt="bg" /> </p>
+<p align="center"> <img src="/.github/images/bg.png" alt="bg" /> </p>
 
 <hr>
 
